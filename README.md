@@ -1,1 +1,1 @@
-# GeoCoding - WordPress
+# GeoCoding - WordPress code Snippets
